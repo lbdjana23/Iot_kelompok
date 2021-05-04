@@ -3,8 +3,8 @@
 #include <OneWire.h>
 #include <DallasTemperature.h>
 
-const char* WIFI_SSID = "lol";
-const char* WIFI_PASS = "labda1191";
+const char* WIFI_SSID = "Pipit dewi";
+const char* WIFI_PASS = "Omas7879";
 const char* HOSTNAME = "Labda";
 
 OneWire oneWire(4);
