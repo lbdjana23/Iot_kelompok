@@ -4,7 +4,7 @@
 #include <DallasTemperature.h>
 
 const char* WIFI_SSID = "Pipit dewi";
-const char* WIFI_PASS = "Omas7678";
+const char* WIFI_PASS = "Omas5758";
 const char* HOSTNAME = "Labda";
 
 OneWire oneWire(4);
