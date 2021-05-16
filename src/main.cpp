@@ -5,7 +5,7 @@
 
 const char* WIFI_SSID = "Pipit dewi";
 const char* WIFI_PASS = "Omas5758";
-const char* HOSTNAME = "labdajana;";
+const char* HOSTNAME = "labdajana:";
 
 OneWire oneWire(4);
 DallasTemperature sensors(&oneWire);
